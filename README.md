@@ -1,5 +1,5 @@
 # Demo
 
-Some description!
+This is a repo for learning GitHub
 
 ## sub header
